@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## Projects
 
 **Project description:** This is my visualisation project.
 ### 1. Suggest hypotheses about the causes of observed phenomena
