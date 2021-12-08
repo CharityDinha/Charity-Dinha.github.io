@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Charity Dinha # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Highly hard-working trainee data scientist who enjoys diving into massive data to extract key information that will open connections and pattens. These connections can be manipulated by using software to transform those insights into visualisations. Which can then be showcased to make important decisions. This can help improve organisations achieve success by using predictions to forecast trends. 
   <br><br>
-  Second description 
+  I am looking for work in Data.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/charity-dinha-86277315b">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
